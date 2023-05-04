@@ -11,4 +11,4 @@ ENV UMASK=$UMASK
 
 EXPOSE 5244
 
-#CMD [ "./alist", "admin"]
+CMD [ "./alist", "admin"]
